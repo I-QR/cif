@@ -2800,6 +2800,10 @@ figcaption {
     -ms-flex-align: center;
     align-items: center;
 }
+@font-face {
+    font-family: cinzel;
+    src: url(/assests/fonts/Cinzel-Regular.ttf);
+}
 
 .heading {
     max-width: 750px;
@@ -4367,6 +4371,9 @@ figcaption {
 .manrope {
     margin-bottom: 0px;
     margin-left: 20px;
+}
+.heading-hero{
+    font-family: cinzel;
 }
 
 @media screen and (max-width: 991px) {
